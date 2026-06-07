@@ -1,0 +1,23 @@
+[
+  { "slot": "scene-1-start", "keyword": "rustic cafe interior warm wood counter", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "scene-1-end", "keyword": "espresso pour steam latte art", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-hero", "keyword": "cozy rustic coffee bar golden hour", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-about", "keyword": "rustic cafe brick wall edison bulbs", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-founder", "keyword": "barista coffee roaster portrait apron", "industry": "cafe bar coffee", "orientation": "portrait" },
+  { "slot": "section-showcase-1", "keyword": "latte art coffee cup ceramic", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-showcase-2", "keyword": "brunch plate eggs avocado toast", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-showcase-3", "keyword": "craft cocktail bar amber drink", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "section-showcase-4", "keyword": "fresh pastries croissants bakery counter", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "service-coffee", "keyword": "espresso cappuccino coffee cup wood", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "service-brunch", "keyword": "brunch food plate rustic table", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "service-bar", "keyword": "cocktail bar bottles backlit shelf", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "service-pastry", "keyword": "artisan pastries cakes display", "industry": "cafe bar coffee", "orientation": "landscape" },
+  { "slot": "menu-espresso", "keyword": "espresso shot ceramic cup", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-flatwhite", "keyword": "flat white latte art", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-coldbrew", "keyword": "cold brew coffee ice glass", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-avocado", "keyword": "avocado toast brunch", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-croissant", "keyword": "butter croissant pastry", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-negroni", "keyword": "negroni cocktail amber", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-wine", "keyword": "glass of red wine bar", "industry": "cafe bar coffee", "orientation": "squarish" },
+  { "slot": "menu-cheeseboard", "keyword": "cheese charcuterie board", "industry": "cafe bar coffee", "orientation": "squarish" }
+]

@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Stone & Bronze palette as CSS vars (consumed by shared components) */
+  --bg-color: #f5f0e8;
+  --fg-color: #3d3326;
+  --bg: #f5f0e8;
+  --bg-primary: #f5f0e8;
+  --surface: #efe9de;
+  --color-card-bg: #efe9de;
+
+  --primary: #6e5c42;
+  --primary-rgb: 110, 92, 66;
+  --accent: #a8927a;
+
+  --color-primary: #6e5c42;
+  --color-accent: #a8927a;
+  --color-cream: #f5f0e8;
+  --color-terracotta: #a8927a;
+
+  --text-secondary: #6e5c42;
+
+  /* cursor-follow vars used by some motion primitives */
+  --gx: 50%;
+  --gy: 50%;
+}
+
+* {
+  border-color: rgba(110, 92, 66, 0.14);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: #3d3326;
+  font-family: var(--font-body), "Nunito", system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: var(--font-display), "Lora", Georgia, serif;
+}
+
+::selection {
+  background: rgba(168, 146, 122, 0.35);
+  color: #241c14;
+}
+
+/* Thin warm scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #efe9de;
+}
+::-webkit-scrollbar-thumb {
+  background: #c9bca6;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8927a;
+}
